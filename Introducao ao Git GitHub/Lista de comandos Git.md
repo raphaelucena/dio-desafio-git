@@ -8,6 +8,9 @@
 
 ## Ajuda
 
+##### Chave SSH Linux
+	ssh-keygen -t ed25519 -C "your@email.com"
+
 ##### Geral
 	git help
 	
